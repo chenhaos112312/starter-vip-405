@@ -59,7 +59,7 @@ export const Hero = (props) => {
             </h1>
             {/* 次标题 */}
             <p
-              className="text-black;mx-auto mb-9 max-w-[600px] text-base font-medium  sm:text-lg sm:leading-[1.44]"
+              className="text-black mx-auto mb-9 max-w-[600px] text-base font-medium  sm:text-lg sm:leading-[1.44]"
             >
                Your one-stop favorites will never be lost!<br></br>
               {siteConfig('STARTER_HERO_TITLE_2', null, CONFIG)}
