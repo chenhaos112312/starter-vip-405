@@ -40,7 +40,7 @@ export const Hero = (props) => {
     {/* bg-black */}
     <div
       id="home"
-      className="relative bg-white h-screen  pt-[120px] md:pt-[130px] lg:pt-[160px]"
+      className="relative bg-white h-screen overflow-y-auto  pt-[120px] md:pt-[130px] lg:pt-[160px]"
     >
     <div className="container">
       {/* <div className="-mx-4 flex flex-wrap items-center"> */}
